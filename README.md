@@ -5,7 +5,7 @@ Esse projeto teve como intuito treinar a criação de prompts para o ChatGPT (e 
 
 Portanto, a minha função no desenvolvimento deste projeto foram os prompts, tanto do ChatGPT quanto do Playgrount AI (site usado para criação de imagens através de IA), algumas modificações no texto gerado para deixar mais adequado ao propósito, e a criação deste arquivo. 
 
-O eBook, chamado Almas de Metal: Transformando Vidas com Robôs Terapêuticos, pode ser acessado [neste link](). Ele aborda o que são os robôs terapêuticos, onde são usados, os benefícios, dá 5 exemplos deste tipo de robôs no mercado e, por fim, tem os agradecimentos.
+O eBook, chamado Almas de Metal: Transformando Vidas com Robôs Terapêuticos, pode ser acessado [neste link](https://github.com/Luana-W/eBook_IA/blob/main/Almas_de_Metal.pdf). Ele aborda o que são os robôs terapêuticos, onde são usados, os benefícios, dá 5 exemplos deste tipo de robôs no mercado e, por fim, tem os agradecimentos.
 
 Vale ressaltar que, por ter sido criado por uma IA, pode haver informações imprecisas e desatualizadas.
 
